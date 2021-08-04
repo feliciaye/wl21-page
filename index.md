@@ -28,6 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Content 
+
+Why is this so confusing ~~and am I digging myself into a massive hole~~ :hugs:
+I wish I could learn to code properly 
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feliciaye/wl21-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
